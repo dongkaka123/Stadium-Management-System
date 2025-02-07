@@ -5,10 +5,6 @@ VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stadium Management System", "Stadium Management System\Stadium Management System.csproj", "{E2DB50DC-2516-45C7-BDA0-97715AD9D055}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cccc1", "cccc1\cccc1.csproj", "{E92A92D1-B771-43A2-BF9B-CCB95C5E3579}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT22", "BT22\BT22.csproj", "{CAFC4BC6-1B8B-4422-B3C5-D04D565116DF}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,14 +15,6 @@ Global
 		{E2DB50DC-2516-45C7-BDA0-97715AD9D055}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2DB50DC-2516-45C7-BDA0-97715AD9D055}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2DB50DC-2516-45C7-BDA0-97715AD9D055}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E92A92D1-B771-43A2-BF9B-CCB95C5E3579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E92A92D1-B771-43A2-BF9B-CCB95C5E3579}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E92A92D1-B771-43A2-BF9B-CCB95C5E3579}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E92A92D1-B771-43A2-BF9B-CCB95C5E3579}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CAFC4BC6-1B8B-4422-B3C5-D04D565116DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CAFC4BC6-1B8B-4422-B3C5-D04D565116DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CAFC4BC6-1B8B-4422-B3C5-D04D565116DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CAFC4BC6-1B8B-4422-B3C5-D04D565116DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
